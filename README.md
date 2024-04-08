@@ -9,6 +9,6 @@ The extracted data is then processed and saved into a CSV file for easy access a
 
 
 ## Features
-Scrapes restaurant reviews from a specified website
-Saves scraped data into a CSV file
-Easy-to-use and customizable scraping script
+Scrapes restaurant reviews from a specified website.
+Saves scraped data into a CSV file.
+Easy-to-use and customizable scraping script.
